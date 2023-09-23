@@ -1,0 +1,14 @@
+Code vulnerabilities include plain text passwords, weak session management, 
+CSRF risk, input validation gaps, improper redirects, sensitive data exposure, 
+and lacking password policies. 
+
+
+To improve security we need to:
+
+Hash and salt passwords securely.
+Configure secure session settings and use a session store.
+Implement CSRF protection.
+Apply input validation.
+Validate and sanitize redirect URLs.
+Enhance session security and user authentication.
+Enforce password policies."
